@@ -1,0 +1,12 @@
+poc:
+  outputs:
+    dev:
+      dbname: dbt_poc
+      host: host.docker.internal
+      pass: admin
+      port: 5432
+      schema: staging
+      threads: 1
+      type: postgres
+      user: postgres
+  target: dev

@@ -1,0 +1,27 @@
+# dbt_project.yml
+
+name: 'poc'
+version: '1.0.0'
+
+profile: 'poc'
+
+
+# Specify the directories for different types of files
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+# Specify the directories to be removed by `dbt clean`
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+      
+
+# Configure models
+models:
+  poc:
+    materialized: ephemeral

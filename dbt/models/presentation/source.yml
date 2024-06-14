@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: sat_sec
+    database: dbt_poc  
+    schema: datavault  
+    tables:
+      - name: sat_security
+  - name: meta_data
+    database: dbt_poc  
+    schema: metadata  
+    tables:
+      - name: metadata_table

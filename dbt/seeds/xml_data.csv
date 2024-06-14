@@ -1,0 +1,153 @@
+attbr_xml,attbr_json
+"<genericSMF><objectType>GenericSMF</objectType>
+        <objectId>GenericSMF</objectId>
+        <objectDescription>SMF</objectDescription>
+        <sourceName>EAGLE PACE</sourceName>
+        <updateSource>OMAMIN</updateSource>
+        <effectiveDate>2015-06-01</effectiveDate>
+        <tagNochangecase>N</tagNochangecase>
+        <preserveNull>N</preserveNull>
+        <noLoadValidationFlag>N</noLoadValidationFlag>
+        <accountingValidationFlag>N</accountingValidationFlag>
+        <primaryAssetId>EM9EM1EM50</primaryAssetId>
+        <primaryAssetType>CLIENT</primaryAssetType>
+        <altAssetIdAndType>
+            <instrumentId>TSR89A</instrumentId>
+            <instrumentIdType>CINSID</instrumentIdType>
+        </altAssetIdAndType>
+        <instrumentId>TSR89A</instrumentId>
+            <instrumentIdType>CINSID</instrumentIdType>
+        <issueName>EagleML Gen SMF EQ EQCSCS</issueName>
+        <unicodeIssueName>StrX</unicodeIssueName>
+        <issueDescription>StrX</issueDescription>
+        <ticker>ELKTST99</ticker>
+        <cusip>EMLGEQCS9</cusip>
+        <isin>ISIN_9</isin>
+        <sedol>SEDOL_9</sedol>
+        <reuters />
+        <cedel>CEDEL_9</cedel>
+        <businessday>AD</businessday>
+        <callable />
+        <contractsize>123.456</contractsize>
+        <optiondescr>S</optiondescr>
+        <puttable />
+        <sequence>530946</sequence>
+        <optiondescr>S</optiondescr>
+        <startdate>2015-05-21</startdate>
+        </genericSMF>","{
+    ""genericSMF"": {
+        ""objectType"": ""GenericSMF"",
+        ""objectId"": ""GenericSMF"",
+        ""objectDescription"": ""SMF"",
+        ""sourceName"": ""EAGLE PACE"",
+        ""updateSource"": ""OMAMIN"",
+        ""effectiveDate"": ""2015-06-01"",
+        ""tagNochangecase"": ""N"",
+        ""preserveNull"": ""N"",
+        ""noLoadValidationFlag"": ""N"",
+        ""accountingValidationFlag"": ""N"",
+        ""primaryAssetId"": ""EM9EM1EM50"",
+        ""primaryAssetType"": ""CLIENT"",
+        ""altAssetIdAndType"": {
+            ""instrumentId"": ""TSR89A"",
+            ""instrumentIdType"": ""CINSID""
+        },
+        ""instrumentId"": ""TSR89A"",
+        ""instrumentIdType"": ""CINSID"",
+        ""issueName"": ""EagleML Gen SMF EQ EQCSCS"",
+        ""unicodeIssueName"": ""StrX"",
+        ""issueDescription"": ""StrX"",
+        ""ticker"": ""ELKTST99"",
+        ""cusip"": ""EMLGEQCS9"",
+        ""isin"": ""ISIN_9"",
+        ""sedol"": ""SEDOL_9"",
+        ""reuters"": """",
+        ""cedel"": ""CEDEL_9"",
+        ""businessday"": ""AD"",
+        ""callable"": """",
+        ""contractsize"": ""123.456"",
+        ""optiondescr"": [
+            ""S"",
+            ""S""
+        ],
+        ""puttable"": """",
+        ""sequence"": ""530946"",
+        ""startdate"": ""2015-05-21""
+    }
+}"
+"<genericSMF><objectType>GenericSMF</objectType>
+        <objectId>GenericSMF</objectId>
+        <objectDescription>SMF</objectDescription>
+        <sourceName>EAGLE PACE</sourceName>
+        <updateSource>OMAMIN</updateSource>
+        <effectiveDate>2015-06-01</effectiveDate>
+        <tagNochangecase>N</tagNochangecase>
+        <preserveNull>N</preserveNull>
+        <noLoadValidationFlag>N</noLoadValidationFlag>
+        <accountingValidationFlag>N</accountingValidationFlag>
+        <primaryAssetId>EM9EM1EM22</primaryAssetId>
+        <primaryAssetType>CLIENT</primaryAssetType>
+        <altAssetIdAndType>
+            <instrumentId>TSR89A</instrumentId>
+            <instrumentIdType>CINSID</instrumentIdType>
+        </altAssetIdAndType>
+        <instrumentId>TSR89A</instrumentId>
+            <instrumentIdType>CINSID</instrumentIdType>
+        <issueName>EagleML Gen SMF EQ EQCSCS</issueName>
+        <unicodeIssueName>StrX</unicodeIssueName>
+        <issueDescription>StrX</issueDescription>
+        <ticker>ELKTST99</ticker>
+        <cusip>EMLGEQCS9</cusip>
+        <isin>ISIN_9</isin>
+        <sedol>SEDOL_9</sedol>
+        <reuters />
+        <cedel>CEDEL_9</cedel>
+        <businessday>AD</businessday>
+        <callable />
+        <contractsize>123.456</contractsize>
+        <optiondescr>S</optiondescr>
+        <puttable />
+        <sequence>530946</sequence>
+        <optiondescr>S</optiondescr>
+        <startdate>2015-05-21</startdate>
+        </genericSMF>","{
+    ""genericSMF"": {
+        ""objectType"": ""GenericSMF"",
+        ""objectId"": ""GenericSMF"",
+        ""objectDescription"": ""SMF"",
+        ""sourceName"": ""EAGLE PACE"",
+        ""updateSource"": ""OMAMIN"",
+        ""effectiveDate"": ""2015-06-01"",
+        ""tagNochangecase"": ""N"",
+        ""preserveNull"": ""N"",
+        ""noLoadValidationFlag"": ""N"",
+        ""accountingValidationFlag"": ""N"",
+        ""primaryAssetId"": ""EM9EM1EM22"",
+        ""primaryAssetType"": ""CLIENT"",
+        ""altAssetIdAndType"": {
+            ""instrumentId"": ""TSR89A"",
+            ""instrumentIdType"": ""CINSID""
+        },
+        ""instrumentId"": ""TSR89A"",
+        ""instrumentIdType"": ""CINSID"",
+        ""issueName"": ""EagleML Gen SMF EQ EQCSCS"",
+        ""unicodeIssueName"": ""StrX"",
+        ""issueDescription"": ""StrX"",
+        ""ticker"": ""ELKTST99"",
+        ""cusip"": ""EMLGEQCS9"",
+        ""isin"": ""ISIN_9"",
+        ""sedol"": ""SEDOL_9"",
+        ""reuters"": """",
+        ""cedel"": ""CEDEL_9"",
+        ""businessday"": ""AD"",
+        ""callable"": """",
+        ""contractsize"": ""123.456"",
+        ""optiondescr"": [
+            ""S"",
+            ""S""
+        ],
+        ""puttable"": """",
+        ""sequence"": ""530946"",
+        ""startdate"": ""2015-05-21""
+    }
+}"

@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: xml_data
+    database: dbt_poc  
+    schema: staging  
+    tables:
+      - name: xml_data
+  - name: securities
+    database: dbt_poc  
+    schema: staging  
+    tables:
+      - name: securities_tbl

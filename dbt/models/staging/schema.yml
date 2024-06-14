@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: parsed_xml
+    description: "Model for parsed XML data"
+    columns:
+      - name: security_id
+        description: "Primary key for the security"
+      - name: security_type
+        description: "Type of security"
+      - name: issue_date
+        description: "Issue date of the security"
+      - name: attrb_xml
+        description: "Attributes in XML format"
+      - name: attrb_json
+        description: "Attributes in JSON format"
+      - name: load_timestamp
+        description: "Timestamp when the data was loaded"
+    config:
+      post-hook: 
+        - "ALTER TABLE {{ this }} ADD CONSTRAINT pk_security_id PRIMARY KEY (security_id)"
